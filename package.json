@@ -1,0 +1,6 @@
+
+{"scripts": {
+  "dev": "servor src/ index.html 1234 --reload",
+  "deploy": "gh-pages -d src/"
+}
+}
